@@ -1,6 +1,8 @@
 subject_name_1 = input("Enter the first subject's name: ")
+
 subject_marks_1 = input(f"Enter the marks of {subject_name_1}: ")
 subject_full_marks_1 = input(f"Enter the full marks of {subject_name_1}: ")
+
 subject_marks_1 = float(subject_marks_1)
 subject_full_marks_1 = float(subject_full_marks_1)
 

@@ -1,8 +1,6 @@
-number1 = 86
-
 number1 = input("Enter the marks: ")
-number1 = float(number1)
 
+number1 = float(number1)
 
 if number1 > 85:
     print("Distinction")
@@ -13,4 +11,4 @@ elif number1 > 65:
 elif number1 > 55:
     print("Third Division")
 else:
-    print("Failed")
+    print("Fail")
