@@ -21,4 +21,5 @@ for number in range(number_of_hobbies):
     hobby = input(f"Enter the {number + 1} hobby: ")
     person["hobbies"].append(hobby)
 
-print(person)
+for key, value in person.items():
+    print(f"{key}: {value}")
