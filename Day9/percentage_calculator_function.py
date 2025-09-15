@@ -18,4 +18,3 @@ def percentage_calculator():
 
 
 percentage_calculator()
-percentage_calculator()
