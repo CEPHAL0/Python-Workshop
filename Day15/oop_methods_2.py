@@ -30,7 +30,6 @@ class Bank:
     def set_currency_reserve(self, c):
         self.currency_reserve = c * 132
 
-
 bank1 = Bank()
 
 bank1.name = input("Enter the name of bank: ")
