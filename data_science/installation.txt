@@ -1,0 +1,9 @@
+# Create a virtual Environment
+
+# Activate the venv
+
+# Register the kernel
+python -m ipykernel install --user --name=ds_morning --display-name "Data Science Environment Morning"
+
+# Open Jupyter Lab
+jupyter lab
