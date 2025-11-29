@@ -1,0 +1,24 @@
+Introduction to Streamlit  
+
+Why do we need web interfaces in ML?
+Machine learning gives us models, and to use those models we need some kind of graphical interface because not everyone can understand and execute python code.
+
+Real World ML solutions require an interface:
+1. Doctors predicting a patient risk
+2. Students predicting an exam score
+3. Farmers predicting crop prices
+4. Finance apps predicting credit risk
+
+Streamlit is one of the simplest way to create ML interfaces without frontend work.
+
+
+What is Streamlit?
+
+Streamlit is a framework that turns Python scripts to web application.
+
+Benefits of Streamlit:
+1. Pure python (no html / css / js)
+2. Fast prototyping
+3. Interactive widgets
+4. Integrates perfectly with Pandas, Matplotlib, Scikit-Learn
+5. Deployable Online
